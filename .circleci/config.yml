@@ -1,0 +1,28 @@
+version: 2.1
+
+jobs:
+  build:
+    docker:
+      - image: cimg/base:stable
+    steps:
+      - checkout
+
+      - run:
+          name: Install dependencies
+          command: |
+            sudo apt update
+            sudo apt install -y cmake g++ libsfml-dev
+
+      - run:
+          name: Build project with CMake
+          command: |
+            mkdir build
+            cd build
+            cmake ..
+            make
+
+      - run:
+          name: Run the program (optional)
+          command: |
+            echo "Trying to run program (may fail on CI due to SFML needing a window)..."
+            ./build/GhanaJump || echo "Program exited (this is OK on headless CI)"
