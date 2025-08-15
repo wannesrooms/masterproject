@@ -1,4 +1,5 @@
 Name: Wannes Rooms
+
 Student Number: s0211140
 
 I've tested the program in MacOS (M1 chip), this should be simular to Linux. 
