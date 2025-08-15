@@ -10,19 +10,31 @@ jobs:
       - run:
           name: Install dependencies
           command: |
-            sudo apt update
-            sudo apt install -y cmake g++ libsfml-dev
+            sudo apt-get update
+            sudo apt-get install -y \
+              cmake g++ libsfml-dev \
+              xvfb libgl1-mesa-dri
 
       - run:
           name: Build project with CMake
           command: |
-            mkdir build
+            mkdir -p build
             cd build
             cmake ..
-            make
+            make -j
 
       - run:
-          name: Run the program (optional)
+          name: Run headless (virtual display) zonder audio
           command: |
-            echo "Trying to run program (may fail on CI due to SFML needing a window)..."
-            ./build/GhanaJump || echo "Program exited (this is OK on headless CI)"
+            echo "Running headless with Xvfb + dummy audio..."
+            export ALSOFT_DRIVERS=null          # OpenAL: dummy backend (geen echte audio nodig)
+            export LIBGL_ALWAYS_SOFTWARE=1      # software rendering (llvmpipe)
+            xvfb-run -a -s "-screen 0 1280x720x24" ./build/GhanaJump
+
+      # Als je liever niet faalt wanneer het toch crasht, gebruik dan:
+      # - run:
+      #     name: Run headless (non-fatal)
+      #     command: |
+      #       export ALSOFT_DRIVERS=null
+      #       export LIBGL_ALWAYS_SOFTWARE=1
+      #       xvfb-run -a -s "-screen 0 1280x720x24" ./build/GhanaJump || echo "Program exited (OK on CI)"
