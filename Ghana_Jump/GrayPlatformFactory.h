@@ -3,8 +3,8 @@
 
 #include "AbstractFactory.h"
 #include <memory>
-#include "platform.h"
-#include "Grayplatform.h"
+#include "Platform.h"
+#include "GrayPlatform.h"
 #include "Bonus.h"
 #include "EntityView.h"
 #include "PlatformView.h"

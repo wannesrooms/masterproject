@@ -1,2 +1,15 @@
-﻿  LINK : C:\Users\Wannes Rooms\source\repos\Ghana_Jump\x64\Debug\Ghana_Jump.exe not found or not built by the last incremental link; performing full link
-  Ghana_Jump.vcxproj -> C:\Users\Wannes Rooms\source\repos\Ghana_Jump\x64\Debug\Ghana_Jump.exe
+﻿  Game.cpp
+C:\Users\Wannes Rooms\OneDrive\Desktop\temp_project\masterproject\Ghana_Jump\Game.cpp(190,64): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Wannes Rooms\OneDrive\Desktop\temp_project\masterproject\Ghana_Jump\Game.cpp(190,64): warning C4244:         with
+C:\Users\Wannes Rooms\OneDrive\Desktop\temp_project\masterproject\Ghana_Jump\Game.cpp(190,64): warning C4244:         [
+C:\Users\Wannes Rooms\OneDrive\Desktop\temp_project\masterproject\Ghana_Jump\Game.cpp(190,64): warning C4244:             T=float
+C:\Users\Wannes Rooms\OneDrive\Desktop\temp_project\masterproject\Ghana_Jump\Game.cpp(190,64): warning C4244:         ]
+C:\Users\Wannes Rooms\OneDrive\Desktop\temp_project\masterproject\Ghana_Jump\Game.cpp(190,41): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Wannes Rooms\OneDrive\Desktop\temp_project\masterproject\Ghana_Jump\Game.cpp(190,41): warning C4244:         with
+C:\Users\Wannes Rooms\OneDrive\Desktop\temp_project\masterproject\Ghana_Jump\Game.cpp(190,41): warning C4244:         [
+C:\Users\Wannes Rooms\OneDrive\Desktop\temp_project\masterproject\Ghana_Jump\Game.cpp(190,41): warning C4244:             T=float
+C:\Users\Wannes Rooms\OneDrive\Desktop\temp_project\masterproject\Ghana_Jump\Game.cpp(190,41): warning C4244:         ]
+  Ghana_Jump.cpp
+  World.cpp
+  Generating Code...
+  Ghana_Jump.vcxproj -> C:\Users\Wannes Rooms\OneDrive\Desktop\temp_project\masterproject\x64\Debug\Ghana_Jump.exe

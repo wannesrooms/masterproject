@@ -3,7 +3,7 @@
 
 #include "AbstractFactory.h"
 #include <memory>
-#include "platform.h"
+#include "Platform.h"
 #include "HorizontalPlatform.h"
 #include "Bonus.h"
 #include "PlatformView.h"

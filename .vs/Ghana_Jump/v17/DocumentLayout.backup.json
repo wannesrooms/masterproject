@@ -1,0 +1,925 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\VerticalPlatform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\VerticalPlatform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Stopwatch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Stopwatch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\StaticPlatform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\StaticPlatform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Random.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Random.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlayerView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\PlayerView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlatformView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\PlatformView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Platform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\HorizontalPlatform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\HorizontalPlatform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\GrayPlatform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\GrayPlatform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Ghana_Jump.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Ghana_Jump.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\DynamicPlatform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\DynamicPlatform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\CollisionVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\CollisionVisitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\BonusView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\BonusView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Bonus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Bonus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\World.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\VerticalPlatformFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\VerticalPlatformFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\VerticalPlatform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\VerticalPlatform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Stopwatch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Stopwatch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\StaticPlatformFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\StaticPlatformFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\StaticPlatform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\StaticPlatform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlayerView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\PlayerView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlayerFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\PlayerFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlatformView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\PlatformView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\HorizontalPlatformFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\HorizontalPlatformFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\HorizontalPlatform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\HorizontalPlatform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\GrayPlatformFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\GrayPlatformFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\GrayPlatform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\GrayPlatform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\EntityVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\EntityVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\EntityView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\EntityView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\DynamicPlatform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\DynamicPlatform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\CollisionVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\CollisionVisitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\BonusView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\BonusView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\BonusFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\BonusFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Bonus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Bonus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\Background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\AbstractFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9874994-4EE4-4158-A1C5-944F4FF38611}|Ghana_Jump\\Ghana_Jump.vcxproj|solutionrelative:Ghana_Jump\\AbstractFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "World.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\World.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\World.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\World.cpp",
+              "RelativeToolTip": "Ghana_Jump\\World.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:12:32.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VerticalPlatform.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\VerticalPlatform.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\VerticalPlatform.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\VerticalPlatform.cpp",
+              "RelativeToolTip": "Ghana_Jump\\VerticalPlatform.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:12:30.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Subject.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Subject.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Subject.cpp",
+              "RelativeToolTip": "Ghana_Jump\\Subject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:12:26.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stopwatch.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Stopwatch.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Stopwatch.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Stopwatch.cpp",
+              "RelativeToolTip": "Ghana_Jump\\Stopwatch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:12:23.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaticPlatform.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\StaticPlatform.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\StaticPlatform.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\StaticPlatform.cpp",
+              "RelativeToolTip": "Ghana_Jump\\StaticPlatform.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:12:21.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Score.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Score.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Score.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Score.cpp",
+              "RelativeToolTip": "Ghana_Jump\\Score.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:12:19.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Random.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Random.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Random.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Random.cpp",
+              "RelativeToolTip": "Ghana_Jump\\Random.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:12:17.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerView.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlayerView.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\PlayerView.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlayerView.cpp",
+              "RelativeToolTip": "Ghana_Jump\\PlayerView.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:12:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Player.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Player.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Player.cpp",
+              "RelativeToolTip": "Ghana_Jump\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:12:08.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlatformView.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlatformView.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\PlatformView.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlatformView.cpp",
+              "RelativeToolTip": "Ghana_Jump\\PlatformView.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:12:02.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Platform.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Platform.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Platform.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Platform.cpp",
+              "RelativeToolTip": "Ghana_Jump\\Platform.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:12:00.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HorizontalPlatform.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\HorizontalPlatform.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\HorizontalPlatform.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\HorizontalPlatform.cpp",
+              "RelativeToolTip": "Ghana_Jump\\HorizontalPlatform.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:11:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GrayPlatform.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\GrayPlatform.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\GrayPlatform.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\GrayPlatform.cpp",
+              "RelativeToolTip": "Ghana_Jump\\GrayPlatform.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:11:55.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ghana_Jump.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Ghana_Jump.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Ghana_Jump.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Ghana_Jump.cpp",
+              "RelativeToolTip": "Ghana_Jump\\Ghana_Jump.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:11:52.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Game.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Game.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Game.cpp",
+              "RelativeToolTip": "Ghana_Jump\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:11:39.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Entity.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Entity.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Entity.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Entity.cpp",
+              "RelativeToolTip": "Ghana_Jump\\Entity.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:11:37.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DynamicPlatform.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\DynamicPlatform.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\DynamicPlatform.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\DynamicPlatform.cpp",
+              "RelativeToolTip": "Ghana_Jump\\DynamicPlatform.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:11:35.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CollisionVisitor.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\CollisionVisitor.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\CollisionVisitor.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\CollisionVisitor.cpp",
+              "RelativeToolTip": "Ghana_Jump\\CollisionVisitor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:11:24.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Camera.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Camera.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Camera.cpp",
+              "RelativeToolTip": "Ghana_Jump\\Camera.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:11:20.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BonusView.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\BonusView.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\BonusView.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\BonusView.cpp",
+              "RelativeToolTip": "Ghana_Jump\\BonusView.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:11:15.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Bonus.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Bonus.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Bonus.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Bonus.cpp",
+              "RelativeToolTip": "Ghana_Jump\\Bonus.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:11:14.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Background.cpp",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Background.cpp",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Background.cpp",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Background.cpp",
+              "RelativeToolTip": "Ghana_Jump\\Background.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T12:11:11.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "World.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\World.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\World.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\World.h",
+              "RelativeToolTip": "Ghana_Jump\\World.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:10:53.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VerticalPlatformFactory.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\VerticalPlatformFactory.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\VerticalPlatformFactory.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\VerticalPlatformFactory.h*",
+              "RelativeToolTip": "Ghana_Jump\\VerticalPlatformFactory.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:10:44.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VerticalPlatform.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\VerticalPlatform.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\VerticalPlatform.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\VerticalPlatform.h",
+              "RelativeToolTip": "Ghana_Jump\\VerticalPlatform.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:10:42.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Subject.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Subject.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Subject.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Subject.h",
+              "RelativeToolTip": "Ghana_Jump\\Subject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:10:39.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Stopwatch.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Stopwatch.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Stopwatch.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Stopwatch.h",
+              "RelativeToolTip": "Ghana_Jump\\Stopwatch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:10:37.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StaticPlatform.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\StaticPlatform.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\StaticPlatform.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\StaticPlatform.h",
+              "RelativeToolTip": "Ghana_Jump\\StaticPlatform.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:10:29.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Score.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Score.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Score.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Score.h",
+              "RelativeToolTip": "Ghana_Jump\\Score.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:10:25.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Random.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Random.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Random.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Random.h",
+              "RelativeToolTip": "Ghana_Jump\\Random.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:10:22.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlayerView.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlayerView.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\PlayerView.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlayerView.h",
+              "RelativeToolTip": "Ghana_Jump\\PlayerView.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:10:18.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PlayerFactory.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlayerFactory.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\PlayerFactory.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlayerFactory.h",
+              "RelativeToolTip": "Ghana_Jump\\PlayerFactory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:10:08.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Player.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Player.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Player.h",
+              "RelativeToolTip": "Ghana_Jump\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:10:05.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StaticPlatformFactory.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\StaticPlatformFactory.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\StaticPlatformFactory.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\StaticPlatformFactory.h*",
+              "RelativeToolTip": "Ghana_Jump\\StaticPlatformFactory.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:06:51.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PlatformView.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlatformView.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\PlatformView.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\PlatformView.h",
+              "RelativeToolTip": "Ghana_Jump\\PlatformView.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:09:58.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Platform.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Platform.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Platform.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Platform.h",
+              "RelativeToolTip": "Ghana_Jump\\Platform.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:09:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Observer.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Observer.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Observer.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Observer.h",
+              "RelativeToolTip": "Ghana_Jump\\Observer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:09:53.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HorizontalPlatformFactory.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\HorizontalPlatformFactory.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\HorizontalPlatformFactory.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\HorizontalPlatformFactory.h*",
+              "RelativeToolTip": "Ghana_Jump\\HorizontalPlatformFactory.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:09:45.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HorizontalPlatform.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\HorizontalPlatform.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\HorizontalPlatform.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\HorizontalPlatform.h",
+              "RelativeToolTip": "Ghana_Jump\\HorizontalPlatform.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:09:40.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GrayPlatformFactory.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\GrayPlatformFactory.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\GrayPlatformFactory.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\GrayPlatformFactory.h*",
+              "RelativeToolTip": "Ghana_Jump\\GrayPlatformFactory.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:09:17.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GrayPlatform.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\GrayPlatform.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\GrayPlatform.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\GrayPlatform.h",
+              "RelativeToolTip": "Ghana_Jump\\GrayPlatform.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:09:14.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Game.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Game.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Game.h",
+              "RelativeToolTip": "Ghana_Jump\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:09:08.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EntityVisitor.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\EntityVisitor.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\EntityVisitor.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\EntityVisitor.h",
+              "RelativeToolTip": "Ghana_Jump\\EntityVisitor.h",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:09:03.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EntityView.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\EntityView.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\EntityView.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\EntityView.h",
+              "RelativeToolTip": "Ghana_Jump\\EntityView.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:09:00.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Entity.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Entity.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Entity.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Entity.h",
+              "RelativeToolTip": "Ghana_Jump\\Entity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:08:56.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DynamicPlatform.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\DynamicPlatform.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\DynamicPlatform.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\DynamicPlatform.h",
+              "RelativeToolTip": "Ghana_Jump\\DynamicPlatform.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:08:54.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CollisionVisitor.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\CollisionVisitor.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\CollisionVisitor.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\CollisionVisitor.h",
+              "RelativeToolTip": "Ghana_Jump\\CollisionVisitor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:08:50.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Camera.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Camera.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Camera.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Camera.h",
+              "RelativeToolTip": "Ghana_Jump\\Camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:08:42.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BonusView.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\BonusView.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\BonusView.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\BonusView.h",
+              "RelativeToolTip": "Ghana_Jump\\BonusView.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:08:03.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BonusFactory.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\BonusFactory.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\BonusFactory.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\BonusFactory.h",
+              "RelativeToolTip": "Ghana_Jump\\BonusFactory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:07:59.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Bonus.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Bonus.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Bonus.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Bonus.h",
+              "RelativeToolTip": "Ghana_Jump\\Bonus.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:07:55.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Background.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Background.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\Background.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\Background.h",
+              "RelativeToolTip": "Ghana_Jump\\Background.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:07:41.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AbstractFactory.h",
+              "DocumentMoniker": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\AbstractFactory.h",
+              "RelativeDocumentMoniker": "Ghana_Jump\\AbstractFactory.h",
+              "ToolTip": "C:\\Users\\Wannes Rooms\\OneDrive\\Desktop\\temp_project\\masterproject\\Ghana_Jump\\AbstractFactory.h",
+              "RelativeToolTip": "Ghana_Jump\\AbstractFactory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-15T12:07:37.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
