@@ -1,0 +1,3 @@
+C:\Users\Wannes Rooms\source\repos\Ghana_Jump\Ghana_Jump\x64\Debug\Ghana_Jump.vcxproj.MdMergeInputs.cache
+C:\Users\Wannes Rooms\source\repos\Ghana_Jump\Ghana_Jump\x64\Debug\Ghana_Jump.vcxproj.cppwinrt_plat.cache
+C:\Users\Wannes Rooms\source\repos\Ghana_Jump\Ghana_Jump\x64\Debug\Ghana_Jump.vcxproj.cppwinrt_comp.cache
